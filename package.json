@@ -1,0 +1,23 @@
+{
+  "name": "vigilant-funicular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiogoSamnas/vigilant-funicular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiogoSamnas/vigilant-funicular/issues"
+  },
+  "homepage": "https://github.com/DiogoSamnas/vigilant-funicular#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
